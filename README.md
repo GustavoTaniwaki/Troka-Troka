@@ -2,4 +2,4 @@
  
 # Linguagem Escolhida: Java
 
-(link deste repositório)[https://github.com/GustavoTaniwaki/Troka-Troka/]
+[link deste repositório](https://github.com/GustavoTaniwaki/Troka-Troka/)
