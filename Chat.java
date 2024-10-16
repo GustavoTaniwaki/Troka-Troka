@@ -1,8 +1,8 @@
 package com.troca.troca;
 
-import java.util.Date;
+import java.util.List;
+import java.util.ArrayList;
 
 public class Chat {
-  private String message;
-  private Date dateM;
+  private List<Message> ownership = new ArrayList<>();
 }
