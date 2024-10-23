@@ -9,6 +9,6 @@ import lombok.Data;
 @Entity
 @Data
 
-public class Chat {
+public class Chat extends Message{
   private List<Message> ownership = new ArrayList<>();
 }
